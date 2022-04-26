@@ -1,0 +1,1081 @@
+01:46:14	Patricio Resio:	hola que tal buen día
+01:46:17	Julieta Bueno:	que es transcripción?
+01:46:18	Luca Benaglio:	pami sin querer tocaron
+01:46:21	Germán Kern:	una que? que es eso?
+01:46:24	Luca Benaglio:	subtitulos
+01:46:49	Germán Kern:	ahh oka
+01:48:48	fabrizio mendez:	hoy es clase de git ?
+01:48:58	[Tutor] Felipe Blanco Muzzolón:	Si, Fabrizio
+01:49:01	fabrizio mendez:	joia
+01:49:03	fabrizio mendez:	a mimir
+01:49:05	fabrizio mendez:	jajajajajaj
+01:49:47	Andrés Durso:	idea
+01:49:56	Juan Sarmiento:	microsoft
+01:49:59	Juan Sarmiento:	?
+01:50:01	Luca Benaglio:	Hostinger?
+01:50:06	Juan Sarmiento:	Linux+
+01:50:12	Emiliano Di Noto:	sql server es un ejemplo?
+01:50:24	Valentino Argenziano:	No ni idea =(
+01:50:29	Gerardo Xavier Perez Alguacil:	SAP?
+01:50:30	Tobias Morello:	🧐🤔
+01:50:31	Juan Sarmiento:	hostinger
+01:50:35	Cristian Alejandro Rebasti:	yo use aws para un vps
+01:50:38	Miguel Raad:	Gmail?
+01:50:45	Tobias Morello:	Hostinger con eso me hago el sv de minecraft con amigos
+01:50:52	Bruno Morabito:	adobe
+01:51:05	Miguel Raad:	Y que es servidor software entones? :v
+01:51:48	Tobias Morello:	si
+01:53:07	[TUTOR]Roger Burbano:	=)
+01:53:15	Miguel Raad:	no
+01:53:16	Luca Benaglio:	maomeno
+01:53:17	Agustin Cardena:	no
+01:53:17	Emiliano Di Noto:	mmm maso
+01:53:22	Valentino Argenziano:	nop
+01:53:24	Julieta Bueno:	🤨
+01:53:24	Miguel Raad:	para hacer modificaciones visual code xd
+01:53:25	Bruno Morabito:	es gratis
+01:53:26	Bruno Morabito:	basicamente
+01:53:27	Tomas Russo Romera:	en un cumple
+01:53:28	Tomás Moschen:	nop
+01:53:28	Bruno Morabito:	el host
+01:53:29	luciano roldan:	es una manera de manter un proyecto
+01:53:33	luciano roldan:	y poder cambiarlo
+01:53:39	Franco Ontivero:	Compara versiones de HTML?
+01:53:40	luciano roldan:	sin perder
+01:53:44	luciano roldan:	la primer version'
+01:53:45	Angel Nicolas derito:	si tipo actualizar la versión para mejorar algoo corregir un error, es eso?
+01:53:46	luciano roldan:	?
+01:53:51	[TUTOR] Julian Fernandez:	Si Luciano
+01:54:06	[TUTOR] Julian Fernandez:	Tal cual como decis!
+01:54:50	Emiliano Di Noto:	en resumen, es un sistema donde ponemos nuestro código sin necesidad de comprimirlo en un rar no?
+01:55:16	[TUTOR]Victor Hernandez:	Si hoy aprenderemos a usar git que es un controlador de versiones
+01:55:22	[TUTOR]Victor Hernandez:	luego lo enviaremos a github
+01:55:27	Luca Benaglio:	un historial de todo nuestro codigo
+01:55:36	[TUTOR]Victor Hernandez:	y ahí si nos olvidamos de los drives e .rar
+01:55:47	Cristian Alejandro Rebasti:	aprendemos el readme.md
+01:55:59	luciano roldan:	yes
+01:56:02	[TUTOR]Victor Hernandez:	eso es en GitHub la clase que viene
+01:56:29	Miguel Raad:	me gusta :)
+01:56:55	[TUTOR]Victor Hernandez:	Sobre todo git es una herramienta obligatoria y muy importante en el mundo laboral
+01:58:00	Miguel Raad:	Le decimos a git la ubicación del archivo que queremos subir antes de realmente subirlo
+01:58:17	Maria celeste barreto:	maso
+01:58:17	luciano roldan:	si
+01:58:21	Tobias Morello:	bien
+01:58:24	Joaquin Gramigna:	Maso casi nada
+01:58:24	Emiliano Di Noto:	bien
+01:58:24	Gaspar Mutti:	maso
+01:58:26	Julieta Bueno:	maso, tipo en la nube?
+01:58:32	Julieta Bueno:	oki
+01:58:54	Patricio Silverii:	como un drive de código?
+01:59:58	Tobias Morello:	Si
+01:59:59	Tobias Morello:	yo tengo
+02:00:00	Agustin Cardena:	see
+02:00:01	Emiliano Di Noto:	sep
+02:00:01	Franco Ontivero:	Si
+02:00:15	Miguel Raad:	lo hackeaste vos, lo sabemos
+02:00:28	Daniel arambulo pinto:	si a mi me robaron los 20 pesos que tenia :(
+02:00:38	[TUTOR]Roger Burbano:	jajajajajja
+02:00:45	Daniel arambulo pinto:	lauta devolveme la plata
+02:00:52	Daniel arambulo pinto:	😡
+02:00:56	Richard Roges:	alto guiiso con 20 pee papa
+02:01:03	Jonathan Garcia:	lauta laburás en ualá?
+02:02:26	Luca Benaglio:	y 400 cosas mas jjsajas :(
+02:03:14	Joaquin Gramigna:	usa el f3 de ultima
+02:03:28	Cristian Alejandro Rebasti:	busca frontend arriba lauta
+02:03:29	Daniel arambulo pinto:	que piden mas git o el certificado de secundaria? xd
+02:03:34	Emanuel Curcio:	ctrl+f
+02:03:36	Franco Ontivero:	ctrl+f y sale buscar git.
+02:04:10	Patricio Resio:	tutorial by lauta de como conseguir laburo
+02:04:23	Miguel Raad:	yo divino si gano en dólares aca
+02:04:24	Miguel Raad:	xd
+02:04:24	[TUTOR] Julian Fernandez:	Dani, de hecho a veces no piden el certificado de secundaria, solo los conocimientos
+02:04:39	[TUTOR] Julian Fernandez:	Peero es super importante tenerlo
+02:04:57	Cristian Alejandro Rebasti:	solo falta aprender java y c#
+02:04:59	Miguel Raad:	Sí, muchas veces para la contratación necesitan el titulo secundario :'v
+02:05:32	Miguel Raad:	jajajaja
+02:05:48	[TUTOR] Julian Fernandez:	Por eso es super importante tenerlo jaja
+02:06:18	Jonathan Garcia:	conozco a una persona que no tiene titulo y está ganando 4k verde por mes
+02:06:26	Miguel Raad:	A través del servidor de su web ingresaron a sus repositorios'
+02:06:27	Miguel Raad:	?
+02:06:30	Jonathan Garcia:	asi que te la re discuto jajaja
+02:06:44	Juan Cruz Altamirano:	como q 4k verdes son techo?
+02:06:47	Juan Cruz Altamirano:	me vuelvo loco
+02:06:59	Juan Cruz Altamirano:	oa
+02:07:41	Luca Benaglio:	si
+02:07:42	lautaro sabo:	si
+02:07:42	Miguel Raad:	sí
+02:07:42	luciano roldan:	si
+02:07:43	Tobias Morello:	Si
+02:07:43	Maria celeste barreto:	si
+02:07:44	Tomas Lazarte:	si
+02:07:45	Lautaro Tresca:	si
+02:07:45	Agustin Cardena:	si
+02:07:45	Juan Sarmiento:	si
+02:07:45	fabrizio mendez:	sisi
+02:07:45	Franco Ontivero:	Si lo instale en clase
+02:07:46	Alexis Orphant:	si
+02:07:46	Magali Zapata:	si
+02:07:46	Maylen M Mendoza Mendoza:	si
+02:07:47	Santiago Marchese:	siip
+02:07:47	Nicolas Yacono:	no
+02:07:49	Lucio Schiavoni:	SI
+02:07:50	Valentina Busamia:	Yo no jjajajaja
+02:07:50	Juan Luis Farina:	no
+02:07:50	Tomas Russo Romera:	no
+02:07:52	Esteban Albornoz:	anoche de suerte jajaja
+02:07:53	Franco Olivera Reid:	no
+02:07:54	Marina Olivieri:	Si
+02:07:56	Simon Mastrolia:	no llegue, me fui a laburar
+02:07:56	Valentino Argenziano:	Lo de la clase era?
+02:07:59	Juan Vargas Mendoza:	si
+02:08:00	Leandro Jaime:	no
+02:08:00	Javier Paulino:	Si
+02:08:02	Andrés Durso:	en clase todos juntos
+02:08:12	Profe Lauta:	https://git-scm.com/
+02:08:53	Leonel Sanz:	hola, disculpen, llegué tarde
+02:09:17	Valentina Busamia:	Se me aparece algo de Homebrew primero para instalar
+02:09:22	Valentina Busamia:	Puede ser?
+02:09:34	Valentina Busamia:	sis
+02:09:41	Valentina Busamia:	okk
+02:09:57	Emilio Bensignor:	En Mac se puede descargar como una aplicación en el app store también
+02:10:01	Tomas Russo Romera:	lauta cuando dice selec components
+02:10:11	Tomas Russo Romera:	aparte del git bash que mas apretamos?
+02:10:50	Agustin Rojas Molina:	Descargando c:
+02:11:01	Juan Luis Farina:	listo
+02:11:25	Nicolas Yacono:	le permito hacer cambios en nuestro dispositivo?
+02:11:25	Juan Luis Farina:	si
+02:11:41	Juan Luis Farina:	!
+02:11:45	Tomas Russo Romera:	listo
+02:12:00	rolando otero:	tuki
+02:12:17	Tomas Russo Romera:	sep
+02:12:17	fabrizio mendez:	si
+02:12:21	Franco Ontivero:	sip
+02:12:28	fabrizio mendez:	tamo chelo
+02:12:28	Maylen M Mendoza Mendoza:	si
+02:12:30	mark mysler:	si louta
+02:12:30	Tobias Morello:	tamo
+02:12:35	Andrés Durso:	mate em mano
+02:12:35	Santiago Marchese:	que te importa loshi
+02:12:37	Santiago Marchese:	jajaja
+02:13:19	luciano roldan:	si
+02:13:22	fabrizio mendez:	yesss
+02:13:22	Franco Ontivero:	yasss
+02:13:23	Maylen M Mendoza Mendoza:	si
+02:13:24	Lucio Gastellu Arrieta:	si
+02:13:25	Andrés Durso:	el mio dice here al lado
+02:13:26	Emiliano Di Noto:	sep
+02:13:27	Ezequiel_Mendez:	sii
+02:13:27	Juan Luis Farina:	si
+02:13:27	Nicolas Yacono:	tamos
+02:13:28	Alejandro Zalazar:	sip
+02:13:28	Tobias Morello:	tamo aqui
+02:13:29	Tomas Russo Romera:	le estas usando la pc a jose vos lauta
+02:13:30	Alexis Orphant:	si
+02:13:31	Javier Paulino:	Si
+02:13:33	Santiago Marchese:	si
+02:13:34	Andrés Durso:	ok
+02:13:35	Agustin Cardena:	👍
+02:13:52	luciano roldan:	Usuario@DESKTOP-SC4VGBP MINGW64 ~/Desktop$
+02:13:53	luciano roldan:	dice eso
+02:13:55	luciano roldan:	esta bien?
+02:13:56	Germán Kern:	Lauta te hackeo José
+02:14:41	Franco Ontivero:	Si
+02:14:41	luciano roldan:	si
+02:14:41	Tomas Russo Romera:	sep
+02:14:43	Juan Cruz Dieguez:	si
+02:14:43	Luca Benaglio:	sep
+02:14:44	Alexis Orphant:	si
+02:14:45	Tobias Morello:	me sale 2.35.2
+02:14:46	Franco Olivera Reid:	si
+02:14:48	Juan Cruz Altamirano:	Windows 1
+02:14:49	Ezequiel_Mendez:	sisi
+02:14:51	Tobias Morello:	:D
+02:14:52	Tomas Russo Romera:	modo Eliot mr robot
+02:14:53	Juan Luis Farina:	me aparece windows1
+02:14:55	fabrizio mendez:	tengo 2.34.1
+02:14:58	lautaro sabo:	pone ipconfig lauta jsjsjs
+02:14:59	Andrés Durso:	git version 2.35.1.windows.2
+02:15:03	fabrizio mendez:	Windows.1
+02:15:04	[TUTOR]Victor Hernandez:	Excelente!
+02:15:13	fabrizio mendez:	joia
+02:15:35	Valentina Busamia:	No pero ya le hable a mi tutora jsjsjsjs
+02:15:46	[TUTORA] Abril Aiello:	Tiene mac valen
+02:15:46	Mauro Sosa:	se podría repetir que no lo vi porfa
+02:15:49	[TUTORA] Abril Aiello:	Ahora lo resolvemos :)
+02:15:58	Abril Capizzano:	git version 2.35.2.windows.1
+02:16:38	Juan Sarmiento:	tiramos un metasploit?
+02:16:40	Mauro Sosa:	joya
+02:16:42	Santiago Marchese:	sii
+02:16:43	fabrizio mendez:	siiii
+02:16:49	Tomas Russo Romera:	me dice windows 1 a vos te dice windows 2
+02:18:09	Gaspar Mutti:	cierro git?
+02:18:35	Profe Lauta:	Linus Torvald
+02:19:06	fabrizio mendez:	yo creo que si
+02:19:09	Esteban Marulanda Suarez-783435:	no
+02:19:09	Jeremias Montoya:	sisis
+02:19:10	Maylen M Mendoza Mendoza:	no
+02:19:10	fabrizio mendez:	puedo hacerlo again ?
+02:19:15	Tobias Morello:	Yo no
+02:19:17	[TUTOR] Julian Fernandez:	Si se puede fabri
+02:19:20	Lucio Schiavoni:	yo no
+02:19:21	Alexis Orphant:	yo no
+02:19:22	Gaspar Mutti:	yo no
+02:19:30	rolando otero:	estas grabando lauta?
+02:19:59	Gaspar Mutti:	puedo cambiarlo mas adelante'
+02:20:00	Gaspar Mutti:	?¡
+02:20:01	[Tutor] Felipe Blanco Muzzolón:	Si, Rolando
+02:21:02	[TUTOR]Victor Hernandez:	El email traten que sea profesional recuerden que eso lo usaran para mostrar su trabajo
+02:21:03	Emiliano Di Noto:	sep
+02:21:12	Carolina-Diaz:	lauta como puedo ver si ya esta configurado?
+02:21:36	Carolina-Diaz:	mi hija usaba esta compu y estaba instalado
+02:21:37	Valentino Argenziano:	Yo me cree una cuenta en git hub
+02:21:51	Valentino Argenziano:	claro
+02:21:53	Carolina-Diaz:	ok gracias!!
+02:22:51	fabrizio mendez:	soisi tengo mi nombre
+02:22:54	Richard Roges:	mm no me salto el nombre
+02:23:03	luciano roldan:	no me salto el nombre
+02:23:03	Tomas Russo Romera:	no me salio nada
+02:23:05	Nelsonlautaro sabo:	nada
+02:23:05	Richard Roges:	me aparece nada
+02:23:08	Juan Sarmiento:	Lo tengo ya
+02:23:08	Leonardo Avalos:	no me salto
+02:23:10	Juan Cruz Dieguez:	tampoco
+02:23:13	Valentino Argenziano:	sisi me salio
+02:23:17	Juan Sarmiento:	Pero se puede aprovechar para cambiarlo no?
+02:23:18	Carolina-Diaz:	no salió nada
+02:23:18	Maylen M Mendoza Mendoza:	tampoco
+02:23:18	Gaspar Mutti:	Bienvenido Tony Stark me dijo git
+02:23:19	Santiago Marchese:	a mi también, no salió
+02:23:31	Maria celeste barreto:	conuslta, esta compu la usaba mi marido y esta su cuenta, la tengo que cambiar o puedo usarla?
+02:23:45	Maria celeste barreto:	ok
+02:24:12	Miguel Raad:	lauta, me dice fatal: not in a git directory
+02:24:44	Miguel Raad:	Lauta
+02:24:49	Santiago Marchese:	se puede modificar muchas veces?
+02:24:53	Miguel Raad:	cuando ingreso el user name
+02:25:14	Valentino Argenziano:	puedo cambiar de nombre? Porque tengo ValeArgen y quiero el nombre completo
+02:25:18	Miguel Raad:	desde el escritorio
+02:25:21	[TUTOR]Victor Hernandez:	ya lo tenias configurado antes miguel?
+02:25:31	[TUTOR]Victor Hernandez:	porque si no lo tenias obviamente te tirara error
+02:25:56	[TUTOR]Victor Hernandez:	ahí lauta esta tirando el comando para configurar desde 0
+02:26:02	Miguel Raad:	ok gracias
+02:26:39	Tomas Lazarte:	puedo poner tilde?
+02:26:42	Tomas Lazarte:	tomás
+02:27:00	Nelsonlautaro sabo:	si mandale
+02:27:12	Tomas Lazarte:	gracias
+02:27:14	Gaspar Mutti:	puedo ponerle emojis? 😝
+02:27:25	Andrés Durso:	git config --global user.name "Andres D´Urso"
+02:27:51	Richard Roges:	bien
+02:27:51	Maria celeste barreto:	no
+02:27:51	Esteban Marulanda Suarez-783435:	sin error
+02:27:53	Nelsonlautaro sabo:	siga pue
+02:27:54	Santiago Marchese:	joya
+02:27:55	Franco Ontivero:	Ok
+02:27:57	Gaspar Mutti:	tukimagic😝@gmail.com
+02:27:57	Julieta Bueno:	jajajaj perdon
+02:27:58	Maria Mariscal:	git: 'config--global' is not a git command. See 'git --help'.
+02:28:01	Sheilyn Colina:	todo excelente!
+02:28:05	Tomas Russo Romera:	$ git config user.nameTomas Russo
+02:28:07	Tomas Russo Romera:	ahora si
+02:28:12	Maria Mariscal:	me tiro ahh no puse el espacio creo
+02:28:13	[TUTOR] Julian Fernandez:	Te falto el espacio maria
+02:28:14	mark mysler:	pone espacio dedspues del config
+02:28:18	Tobias Morello:	maria te falta el espacio entre el config y el global
+02:28:43	Tomas Lazarte:	sisi
+02:28:46	Santiago Marchese:	vamoo
+02:28:50	Franco Ontivero:	si
+02:28:59	[TUTORA] Julieta Romano:	Tengan en cuenta que deben poner bien si o si los comandos porque si no, no funciona
+02:29:50	Juan Cruz Dieguez:	no funcó
+02:29:52	Richard Roges:	ahi va
+02:29:53	Alejandro Zalazar:	escribí todo pero me da error
+02:29:53	Emiliano Di Noto:	seee
+02:29:54	luciano roldan:	si
+02:29:54	Sheilyn Colina:	siiiiiiiiiiiiii
+02:29:54	Maria celeste barreto:	sep
+02:29:55	Lucio Schiavoni:	ahora si
+02:29:55	luciano roldan:	perfect
+02:29:56	Santiago Marchese:	seee
+02:29:56	Julieta Bueno:	sisi
+02:29:57	[Tutor] Felipe Blanco Muzzolón:	Exacto, el mínimo error de tipeo ya hace que no funcione
+02:29:57	Emiliano Di Noto:	al fin
+02:30:04	Andrés Durso:	como si supiera
+02:30:06	Andrés Durso:	jeje
+02:30:08	Alexis Orphant:	si salio
+02:31:11	Alejandro Zalazar:	como es la combinación de teclas para las comillas?
+02:31:36	Gaspar Mutti:	Después lo puedo cambiar igual?
+02:31:43	Gaspar Mutti:	o siempre puedo hacerme otro
+02:31:50	Magali Zapata:	Invento uno nuevo ahora?
+02:31:50	[TUTORA] Abril Aiello:	abrilamaskpa
+02:32:01	[TUTORA] Abril Aiello:	Si Magui
+02:32:03	Gaspar Mutti:	abrilisima@gmail.com
+02:32:04	Joaquin Gramigna:	no me va el arroba (?
+02:32:21	Gaspar Mutti:	alt gr + q para el arrboa
+02:32:22	Gaspar Mutti:	arroba
+02:32:25	[TUTORA] Abril Aiello:	Jajajja ese igual te digo que lo usaría
+02:32:26	luciano roldan:	vamos bien
+02:32:29	Nelsonlautaro sabo:	@ toma copia y pega
+02:32:31	Ezequiel_Mendez:	de 10
+02:32:32	Emiliano Di Noto:	todo bien
+02:32:34	Agustin Rojas Molina:	Todo bien!!
+02:32:35	luciano roldan:	e mio es luchso25
+02:32:37	Joaquin Gramigna:	gracias
+02:32:37	Miguel Raad:	@
+02:32:38	Julieta Bueno:	alt 64
+02:32:39	Santiago Marchese:	listoo
+02:32:39	Andrés Durso:	$ git confirg --global user.email andresdurso117@gmail.comgit: 'confirg' is not a git command. See 'git --help'.The most similar command is        config
+02:32:39	Miguel Raad:	alt 64
+02:32:51	Miguel Raad:	Pusiste confirg no config andres
+02:32:57	Alejandro Zalazar:	gracias
+02:32:58	Patricio Resio:	sip
+02:33:06	Julieta Bueno:	listo
+02:33:44	Richard Roges:	llegue lauta
+02:33:45	luciano roldan:	estamos!
+02:33:46	Sheilyn Colina:	vamos excelente!
+02:33:47	Alexis Orphant:	sisi
+02:33:48	Agustin Cardena:	siii
+02:33:51	Juan Sarmiento:	tukii
+02:33:51	Tobias Morello:	todo joya
+02:33:51	Gaspar Vilosio:	no me funciona el @
+02:33:55	Juan Gonzalez naveiro:	no me deja poner el arroba
+02:33:55	Santiago Marchese:	10 puntos
+02:33:59	Gaspar Mutti:	@
+02:34:01	luciano roldan:	alt q
+02:34:08	Gaspar Mutti:	alt gr + q
+02:34:12	Mauro Sosa:	se puede cambiar el mail mas adelante por cualquier cosa ?
+02:34:15	Santiago Marchese:	o copia y pega
+02:34:16	Gaspar Vilosio:	tampoco funca
+02:34:21	Santiago Marchese:	@
+02:34:31	Gaspar Mutti:	copy paste @@@@@@@@@@@@@
+02:34:37	Tomas Bello:	Proba el alt Gr y el 2, a mi me funciono asi
+02:34:41	Andrés Durso:	listo miguel gracias
+02:34:45	Gaspar Vilosio:	no se puede pegar
+02:34:46	[TUTOR]Roger Burbano:	👊
+02:34:57	luciano roldan:	si
+02:34:57	Lucio Schiavoni:	si
+02:34:58	Juan Cruz Altamirano:	sep
+02:35:00	Franco Ontivero:	perfectooo
+02:35:00	Tomas Russo Romera:	si
+02:35:00	fabrizio mendez:	siiiii
+02:35:00	Sheilyn Colina:	aparecio!
+02:35:00	Ezequiel_Mendez:	si
+02:35:04	Gaspar Mutti:	con click derecho podes pegar
+02:35:04	Alexis Orphant:	si aparecio
+02:35:06	Tomas Lazarte:	si
+02:35:14	Maria Mariscal:	no jajaja
+02:35:18	Maria Mariscal:	ahora veo de nuevo
+02:35:21	Emiliano Di Noto:	uh puse números de mas che
+02:35:21	Julieta Bueno:	perfect
+02:35:25	Emiliano Di Noto:	como cambio el email?
+02:35:36	Gaspar Vilosio:	sigo sin poder poner el @
+02:35:43	Patricio Silverii:	@
+02:35:46	Patricio Silverii:	copia y pega
+02:35:50	Joaquin Gramigna:	alt gr + q
+02:35:53	Gaspar Mutti:	a mi me sobran arrobas
+02:35:55	Gaspar Vilosio:	se hacerlo
+02:35:55	Gaspar Mutti:	toma
+02:35:56	Gaspar Mutti:	@@@@@@@@@@@@@@
+02:35:58	Joaquin Gramigna:	copiar y pegar no sirve
+02:35:58	Santiago Napoli:	alt 64 sino
+02:35:59	Miguel Raad:	@@@@
+02:35:59	Gaspar Vilosio:	pero no me lo toma
+02:35:59	Miguel Raad:	@@
+02:36:00	Miguel Raad:	@
+02:36:01	Miguel Raad:	@
+02:36:01	Gaspar Mutti:	ajjaaja
+02:36:03	Gabriel Aguirre Flaska:	AltGr +Q
+02:36:03	Nicolas Derito:	o alt gr + 2
+02:36:05	Emiliano Di Noto:	listo gracias
+02:36:08	Gabriel Aguirre Flaska:	copia y pega
+02:36:09	Alejandro Zalazar:	--ahora si todo de diez
+02:37:02	fabrizio mendez:	como era ??
+02:37:07	Gaspar Mutti:	hackeados
+02:37:09	Gaspar Mutti:	ajajaj
+02:37:15	luciano roldan:	va bien
+02:37:15	Emiliano Di Noto:	sep
+02:37:20	Tomas Lazarte:	sisi
+02:37:22	Emiliano Di Noto:	git config --list
+02:37:28	Profe Lauta:	git config --list
+02:37:33	Sheilyn Colina:	list!! listo1
+02:37:34	Julieta Bueno:	🤓
+02:37:34	Ezequiel_Mendez:	sisi
+02:37:35	Sheilyn Colina:	haha
+02:37:43	fabrizio mendez:	sisisiis
+02:37:46	Andrés Durso:	es muy buenoooo
+02:38:08	Alexis Orphant:	si
+02:38:09	Franco Ontivero:	Sip
+02:38:10	Santiago Marchese:	see
+02:38:11	Lucio Gastellu Arrieta:	si
+02:38:16	Nicolas Derito:	siosi
+02:38:21	Julieta Bueno:	no me aprece la parte de end al final... pero mis datos si
+02:38:22	Miguel Raad:	yo me perdi en el ulimo comando
+02:38:26	Lucio Schiavoni:	no estaba que dijeron a lo ultimo
+02:38:26	Miguel Raad:	podes mostrarlo?
+02:38:27	Mauro Sosa:	se puede volver al paso anterior
+02:38:28	Julieta Bueno:	oki
+02:38:29	Simon Mastrolia:	flama
+02:38:31	Gaspar Mutti:	git config --global hack MercadoLibre.com.ar
+02:38:33	Valentino Argenziano:	me perdi ese paso
+02:38:34	Juan Gonzalez naveiro:	todo bien
+02:38:35	Marina Olivieri:	👍🏻
+02:38:36	Gaspar Mutti:	iniciando hackeo..
+02:38:37	Valentino Argenziano:	como fue?
+02:38:52	Simon Mastrolia:	entre al pentágono ya
+02:39:02	Lucio Schiavoni:	como ponen end?
+02:39:04	Franco Ontivero:	git config --list Valen
+02:39:06	luciano roldan:	a mi no me dijo eso
+02:39:08	Mauro Sosa:	me quede atrás
+02:39:13	luciano roldan:	lo saque y se fue todo
+02:39:14	Mauro Sosa:	se puede repetir
+02:39:15	Tomas Lazarte:	no me apareció eso jaj
+02:39:31	Emiliano Di Noto:	aparece 8)
+02:39:46	Sheilyn Colina:	Como limpio la consola?
+02:39:59	[TUTOR] Julian Fernandez:	clear
+02:40:00	Sheilyn Colina:	gracias :)
+02:40:02	Jonathan Garcia:	a mi no me aparece el core.editor
+02:40:03	luciano roldan:	que tenemos que poner
+02:40:05	luciano roldan:	para ver si esta todo bien
+02:40:06	Jonathan Garcia:	al final de la lista
+02:40:29	Esteban Marulanda Suarez-783435:	si
+02:40:29	Alexis Orphant:	si
+02:40:33	Miguel Raad:	si
+02:40:35	luciano roldan:	como hago para ver si
+02:40:38	luciano roldan:	esta mi nombre y me gmail
+02:40:44	Cristian Alejandro Rebasti:	lauta me voy a hacer un coffe porq sino me duermo jaja
+02:40:47	luciano roldan:	el paso anterior
+02:41:25	luciano roldan:	perfect todo correcto
+02:41:46	Hoyos Villalba Santiago:	a bien
+02:41:47	Jonathan Garcia:	repito consulta, no me sale el core.editor al final de la lista. Está bien eso?
+02:41:56	Jonathan Garcia:	ok ok
+02:42:03	Franco Ontivero:	Cuanto min nos tomamos?
+02:42:30	Franco Ontivero:	Oka
+02:42:32	luciano roldan:	preparando mate
+02:49:09	Andrés Durso:	ayuda como era la palabra para limpiar la consola?
+02:49:19	[TUTOR] Julian Fernandez:	clear
+02:49:30	Andrés Durso:	gracias jualian
+02:49:57	Juan Cruz Altamirano:	pesadita la clase
+02:49:58	Andrés Durso:	excelente
+02:49:58	fabrizio mendez:	ferrrrpecto
+02:50:26	Julieta Bueno:	hoy no esta produccion
+02:51:03	Julieta Bueno:	falta el mate
+02:52:21	Maria celeste barreto:	si
+02:52:23	Emiliano Di Noto:	sep
+02:52:25	Julieta Bueno:	si
+02:53:02	Emiliano Di Noto:	sis
+02:53:07	luciano roldan:	a alguien le suena mal el audio ?
+02:53:07	Germán Kern:	a mi solo se me escucha robotico?
+02:53:08	Jonathan Garcia:	soy yo o esta colapsando el audio?
+02:53:08	Miguel Raad:	lauta no se te escucha
+02:53:09	Nelsonlautaro sabo:	se te escucha medio mal o soy yo
+02:53:10	Patricio Silverii:	profe te esta flakeando el mic
+02:53:11	Santiago Marchese:	se escucha raro o soy yo??
+02:53:11	Emiliano Di Noto:	yop
+02:53:11	Miguel Raad:	el micro se te colapso
+02:53:13	Esteban Marulanda Suarez-783435:	a mi tambien
+02:53:13	Gaspar Mutti:	si
+02:53:14	Luca Benaglio:	le paso algo al mic
+02:53:15	Gaspar Mutti:	varias veces
+02:53:22	Maylen M Mendoza Mendoza:	si
+02:53:24	Juan Luis Farina:	fallecio lauta
+02:53:27	Jonathan Garcia:	se escucha re mal
+02:53:27	Julieta Bueno:	compro todo por MELI
+02:53:28	Esteban Marulanda Suarez-783435:	igual de mal
+02:53:30	Miguel Raad:	parece que mejor
+02:53:32	Maria celeste barreto:	se escucha ruido
+02:53:32	[TUTOR]Victor Hernandez:	si
+02:53:32	Santiago Marchese:	es como interferencia
+02:53:33	Andrés Durso:	siempre
+02:53:33	Julieta Bueno:	se escucha fritura
+02:53:34	Tomás Moschen:	todo el tiempo compro por mercado libre
+02:53:36	Patricio Silverii:	se escucha como entrecortado
+02:53:36	Maria celeste barreto:	como radio
+02:53:36	Jonathan Garcia:	todo distorcionado y con estatica
+02:53:38	Lucy Ambrosio:	si
+02:53:38	Agustin Cardena:	se escucha interferencia
+02:53:38	Franco Ontivero:	Si se escucha pero como con interferencia.
+02:53:39	Nahuel Garnica Mazzei:	Tenés como estática
+02:53:48	luciano roldan:	saca el autotune
+02:53:49	Lucy Ambrosio:	cortado
+02:53:50	Esteban Marulanda Suarez-783435:	igual :L
+02:53:51	Lucio Gastellu Arrieta:	sigu igual
+02:53:52	Cristian Alejandro Rebasti:	fijate si tenes el cel cerca lauta
+02:53:53	Tomas Bello:	Se escucha pero hay algo de estatica
+02:53:54	Miguel Raad:	mal
+02:53:56	Gaspar Mutti:	se escucha una interferencia y distorsion
+02:53:59	Maria celeste barreto:	peor
+02:54:00	Agustin Rojas Molina:	Ahora no se escucha :c
+02:54:01	Nahuel Garnica Mazzei:	Ahora ya ni se te escucha kajsaj
+02:54:06	Agustin Rojas Molina:	Solo distorsion
+02:54:09	Juan Sarmiento:	Micrófono salió del grupo
+02:54:10	Agustin Rojas Molina:	abducido
+02:54:23	Miguel Raad:	#CoderDameBonoPal^Micro
+02:54:26	luciano roldan:	el teléfono ?
+02:54:26	fabrizio mendez:	yo escucho mal pero se escucha
+02:54:28	Franco Ontivero:	Esperen
+02:54:31	Franco Ontivero:	no es Luciana
+02:54:33	[TUTORA] Julieta Romano:	Si se escucha
+02:54:35	Franco Ontivero:	que tiene abierto el mic?
+02:54:38	Andrés Durso:	producción
+02:54:39	Lautaro Tresca:	git tomó control del micro
+02:54:40	Julieta Bueno:	ahí mejor
+02:54:41	Juan Cruz Altamirano:	se
+02:54:42	Santiago Marchese:	esuchar se te esucha pero hay interferencia
+02:54:43	Cristian Alejandro Rebasti:	es luciana la del ruido jaja
+02:54:44	[TUTOR]Victor Hernandez:	si lauta
+02:54:45	[Tutor] Sebastian Ezequiel De  Franco:	ahora si
+02:54:46	Gaspar Mutti:	es culpa de git
+02:54:46	Micaela Iacono:	yo escucho bien
+02:54:47	Tomás Moschen:	si ahora si
+02:54:47	Gaspar Mutti:	ahr
+02:54:48	Lucas Lemos:	es una compañera parece
+02:54:52	Juan Cruz Altamirano:	hay como un hormigueo pero se puede escuchar
+02:54:54	julio ponzio:	Luciana tiene micro abierto
+02:54:55	Patricio Silverii:	ahí va mas cheto e
+02:54:57	Franco Ontivero:	No, si se te escucha bien
+02:54:58	Maylen M Mendoza Mendoza:	necesitas de produccion
+02:55:03	Lucas Lemos:	es Luciana profe
+02:55:04	Juan Cruz Aviega:	sescucha
+02:55:06	Lucy Ambrosio:	mejor
+02:55:07	Gaspar Mutti:	Segui lauta no hay problema
+02:55:08	Germán Kern:	podes mutear a Luciana lauta?
+02:55:10	Esteban Marulanda Suarez-783435:	silencia a Luciana lautaro
+02:55:12	Francisco Araujo Ruiz:	se escucha OK
+02:55:13	Lautaro Tresca:	le está por llegar un mensaje al celu
+02:55:31	[Tutor] Sebastian Ezequiel De  Franco:	esta sin mic Lu
+02:55:55	Andrés Durso:	saquen los auriculares y se tolera en ambiente en auricular no
+02:56:16	Miguel Raad:	De ultima conéctate por zoom de teléfono y haces sin video lo que queda(?
+02:56:23	Lucy Ambrosio:	se escucha bien
+02:56:26	Agustin Rojas Molina:	Se escucha tu voz
+02:56:27	Franco Ontivero:	No, se escucha mejor
+02:56:30	[TUTORA] Julieta Romano:	Siii
+02:56:31	Julieta Bueno:	esta mejor
+02:56:31	Agustin Rojas Molina:	Y también algo de interferencia
+02:56:32	Miguel Raad:	se escucha con interferencia
+02:56:35	Cristian Alejandro Rebasti:	se te escucha pero hay un pitido
+02:56:39	Miguel Raad:	se te pierde
+02:56:42	Juan Sarmiento:	muteen a Luciana x las dudas jajaj
+02:56:44	Nelsonlautaro sabo:	puede que sea el cable?
+02:56:52	Maylen M Mendoza Mendoza:	se escucha pero con un poco de interferencia pero dale
+02:56:56	Germán Kern:	ahora es menos, ahí safa
+02:56:59	Lucy Ambrosio:	yo lo escucho nien
+02:56:59	Agustin Cardena:	mandale mecha
+02:57:05	Juan Cruz Altamirano:	es tuyo
+02:57:09	Mateo Gabutti:	segue lauta se escucha bn, no pasa nd
+02:57:11	Julieta Bueno:	yo no tengo auriculares y lo escucho por la compu y casi no hay interferencia
+02:57:13	Alexis Orphant:	podes seguir igual
+02:57:17	Juan Cruz Altamirano:	capaz q son los datos
+02:57:20	Patricio Silverii:	ahí se escucha bastante bien igual mandale trancu
+02:57:26	Jeremias Quinteros:	Se escucha bien, mandale
+02:57:32	Emiliano Di Noto:	yo diría que sigas con la clase nomas
+02:57:37	Emiliano Di Noto:	asi aprovechamos tiempo de paso
+02:57:55	Lucy Ambrosio:	si se escucha bien
+02:57:56	Andrés Durso:	continuamos a bingo
+02:58:07	Miguel Raad:	mejor <3
+02:58:46	[TUTOR]Victor Hernandez:	Creen una carpeta para su primer repositorio, no lo apliquen todavía a su proyecto
+02:58:54	[TUTOR]Victor Hernandez:	la primera vez a una carpeta cualquiera
+02:59:25	Miguel Raad:	se corto
+02:59:27	Valentino Argenziano:	No se escucha
+02:59:31	Maria celeste barreto:	se escucha muy mal
+02:59:35	luciano roldan:	no se escucho lo de mercado libre
+02:59:36	Luca Benaglio:	yo sigo escuchando como el cul*
+02:59:38	Franco Olivera Reid:	ahora si se escucha muy mal
+02:59:39	Julieta Bueno:	estas hablando adentro de una lata
+02:59:40	Magali Zapata:	hay muchos mic abiertos
+02:59:40	Agustin Rojas Molina:	Fué por un momento nomás
+02:59:43	Esteban Marulanda Suarez-783435:	no se escucha muy mal, la interferencia es brutal
+02:59:50	Santiago Marchese:	se cago el mic me pa
+02:59:51	Sheilyn Colina:	no se escucha mal, solo hay interferencia
+02:59:52	Santiago Marchese:	hajajjajaa
+02:59:53	luciano roldan:	hay mics abiertos ?
+02:59:58	Nelsonlautaro sabo:	por ahi te nos perdes lauta trata de no hablar tan alto
+03:00:00	Agustin Rojas Molina:	si
+03:00:03	Miguel Raad:	de a ratos se escucha
+03:00:09	Jonathan Garcia:	cada que hablas se hace interferencia todo
+03:00:13	Miguel Raad:	ahorita 0%
+03:00:17	Lucio Schiavoni:	es escucha si, pasa que hay como interferencia
+03:00:22	Jean Mojica Pinzon:	Se te dañaron los audifonos :(
+03:00:23	Jonathan Garcia:	no, igual
+03:00:26	Lucy Ambrosio:	no le suban mucho el volumen
+03:00:29	Agustin Rojas Molina:	20%lauta 80%alien
+03:00:34	Juan Cruz Altamirano:	uy
+03:00:35	Miguel Raad:	JAjajajaja Agus
+03:00:40	Juan Cruz Altamirano:	no
+03:00:42	luciano roldan:	si estamos
+03:00:43	luciano roldan:	sigamos
+03:00:44	Juan Cruz Altamirano:	cada vez peor
+03:00:45	Lucy Ambrosio:	se escucha con eco
+03:00:46	Gaspar Mutti:	si
+03:00:59	Gaspar Mutti:	yo creo que por esta clase sigamos asi
+03:01:03	Gaspar Mutti:	después ves el tema del micro
+03:01:04	Richard Roges:	esta pasando.
+03:01:04	Miguel Raad:	Hablando de MercadoLibre si compras un micro antes de las 15 te llega hoy hajajaajaj
+03:01:04	Mateo Gabutti:	se escucha bn
+03:01:06	Mauro Sosa:	se escucha se escucha
+03:01:09	Mateo Gabutti:	segui no pasa nd
+03:01:11	Lucio Schiavoni:	se escucha si
+03:01:16	Lucy Ambrosio:	ahora ya eta bien
+03:01:21	Lucy Ambrosio:	no hay eco
+03:01:50	Maria celeste barreto:	si
+03:01:52	Nelsonlautaro sabo:	yes
+03:01:53	Gaspar Mutti:	si
+03:01:53	Franco Ontivero:	sii
+03:01:54	Lucio Schiavoni:	si
+03:01:56	Alexis Orphant:	si
+03:02:38	[TUTOR]Victor Hernandez:	Fijense la ruta! deben estar dentro de la carpeta
+03:03:29	Miguel Raad:	Sisi
+03:03:30	Luca Benaglio:	flama
+03:03:31	Jonathan Garcia:	sip
+03:03:31	Micaela Iacono:	si érfecto
+03:03:31	Julieta Bueno:	sisi
+03:03:35	Franco Ontivero:	Si joya
+03:03:36	Juan Sarmiento:	Me sale en otra ruta
+03:03:38	Juan Gonzalez naveiro:	si
+03:03:41	Abril Capizzano:	podes repetir profe?
+03:03:46	Jonathan Garcia:	lauta
+03:03:52	Miguel Raad:	Depende donde tengas el archivo Jua
+03:03:55	Miguel Raad:	Juan*
+03:03:57	Jonathan Garcia:	tenes habilitada la transcripción de subtitulos
+03:04:02	Jonathan Garcia:	capaz eso te esta haciendo interferencia
+03:04:28	Maria celeste barreto:	The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+03:04:34	Maria celeste barreto:	me tira eso
+03:04:42	luciano roldan:	venimos bien!
+03:05:03	Jorge Alejandro Lavera:	No me aparece!! Git Bash
+03:05:16	Jorge Alejandro Lavera:	Tengo la consola abierta
+03:05:24	Jorge Alejandro Lavera:	Me registré y todo
+03:05:29	Agustin Rojas Molina:	Si sale solo que no dice git bash
+03:05:30	Santiago Marchese:	aa lo del mic puede que sea por internet no?
+03:05:33	Jonathan Garcia:	perdón, el audio cada vez se escucha menos.
+03:05:33	Agustin Rojas Molina:	Dice bash
+03:05:33	Jorge Alejandro Lavera:	Tampoco
+03:05:39	luciano roldan:	Usuario@DESKTOP-SC4VGBP MINGW64 ~/Desktop/git$
+03:05:42	Juan Sarmiento:	Ahora me fijo eso, gracias
+03:05:42	luciano roldan:	a mi me figura eso
+03:05:45	luciano roldan:	no tiene mi nombre
+03:05:53	Franco Ontivero:	Si, yo te escucho bien
+03:05:54	Lucio Schiavoni:	si se escucha
+03:06:01	Maria celeste barreto:	The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+03:06:02	Julieta Bueno:	raro pero se entiende todo
+03:06:04	Maria celeste barreto:	me tira eso
+03:06:07	[TUTOR]Victor Hernandez:	Ese sirve agustin! igual si no les aparece verifiquen con el git --versión en la terminal de visual
+03:06:11	Jorge Alejandro Lavera:	Como que no me lo toma en el Visual code
+03:06:13	Juan Sarmiento:	clear
+03:06:19	[Tutor] Sebastian Ezequiel De  Franco:	sino dentro de la carpeta en la computadora donde estan los archivos, apretas boton derecho del mouse y vas a la opcion de git bash
+03:06:24	[TUTOR]Victor Hernandez:	también pueden configurar con la terminal predeterminada de vsc
+03:06:26	Jorge Alejandro Lavera:	Hay forma de agregarlo a mano?
+03:06:31	[TUTOR]Victor Hernandez:	lo importante es que git este instalado
+03:07:29	luciano roldan:	lo ponemos?
+03:07:40	[TUTOR]Victor Hernandez:	git init
+03:07:40	Tomás Moschen:	si
+03:07:42	Tomas Lazarte:	si
+03:07:43	Jorge Alejandro Lavera:	Está instalado. La opción tampoco me aparece en botón derecho
+03:07:43	Luca Benaglio:	sep flama
+03:07:45	Micaela Iacono:	si
+03:07:45	Julieta Bueno:	sisi
+03:07:46	Diego Baconsky:	si
+03:07:47	Gaspar Mutti:	Me dijo que soy un maestro
+03:07:49	Javier Paulino:	Si
+03:07:49	Gaspar Mutti:	ajajaj
+03:07:52	Santiago Marchese:	sii
+03:08:12	Miguel Raad:	command nor found lauta
+03:08:27	[Tutor] Sebastian Ezequiel De  Franco:	pasa screen al chat general de la plataforma Jorge
+03:08:32	[TUTOR]Victor Hernandez:	Miguel hiciste los pasos anteriores?
+03:08:34	Julieta Bueno:	$ git init
+03:08:47	Jorge Alejandro Lavera:	Ahí me apareció en el menú contextual (botón derecho)
+03:09:22	[TUTOR]Victor Hernandez:	git status
+03:09:34	Franco Ontivero:	Si
+03:09:34	Nicolas Derito:	no
+03:09:35	Agustin Rojas Molina:	Si
+03:09:36	Julieta Bueno:	sep
+03:09:38	Jorge Alejandro Lavera:	Lo que no logro es que me aparezca entre las terminales en Visual Code
+03:09:41	Andrés Durso:	see
+03:09:42	Emiliano Di Noto:	asi es
+03:09:49	Santiago Marchese:	vamo bien
+03:09:50	Magali Zapata:	sisi
+03:09:50	Nicolas Derito:	not a git repository (or any of the parent directories): .git
+03:09:51	[TUTOR]Victor Hernandez:	tienen que tener el index.html creado al menos
+03:10:06	[TUTOR]Victor Hernandez:	con la estructura basica
+03:10:13	luciano roldan:	No commits yet  Untracked files:  (use "git add <file>..." to include in what will be committed)        index.html        style.cssnothing added to commit but untracked files present (use "git add" to track)
+03:10:24	luciano roldan:	yo ya tenia un css
+03:10:25	luciano roldan:	tmb
+03:11:10	Franco Ontivero:	Sep
+03:11:53	[TUTOR]Victor Hernandez:	Esta bien Luciano
+03:12:00	[TUTOR]Victor Hernandez:	falta el siguiente comando que agregaremos
+03:12:19	Sheilyn Colina:	La verdad no. que tiene que ver compras de marcado libre con esto para nuestro Proyecto?
+03:12:25	luciano roldan:	que era staging área?
+03:12:26	Gaspar Mutti:	es como que no esta yendo, sino llegando
+03:12:28	Franco Ontivero:	Si es como la mitad del proceso.
+03:12:31	luciano roldan:	es el envio ?
+03:12:39	Gaspar Mutti:	staging área yendo no, llegando
+03:13:07	Martin Devita:	staging área = yendo no, llegando
+03:13:10	Franco Ontivero:	Claro "Limbo" es una buena descripción.
+03:13:18	luciano roldan:	te juro que lo escribi asi jajaaj
+03:13:33	Nelsonlautaro sabo:	esta en el correo dea
+03:13:52	Esteban Marulanda Suarez-783435:	bien
+03:13:52	Miguel Raad:	Mal lauta, no me pasa del git init
+03:14:06	Miguel Raad:	oka gracias
+03:15:03	Julieta Bueno:	si
+03:15:04	Franco Ontivero:	si
+03:15:08	Javier Paulino:	Si
+03:15:41	Cristian Alejandro Rebasti:	y eso para que sirve?
+03:15:49	Lucas Lemos:	para que serviría eso?
+03:16:20	Jonathan Garcia:	me tiró esto
+03:16:20	Jonathan Garcia:	fatal: not a git repository (or any of the parent directories): .git
+03:16:20	Luca Benaglio:	git add y que hay al final? una coma?
+03:16:31	Santiago Marchese:	este son los primeros pasos para subir a un servidores?
+03:16:33	Juan Luis Farina:	un putno
+03:16:36	cristian chazarreta:	git add .
+03:16:39	Leandro Heffes:	git add ,
+03:16:55	Leandro Heffes:	ahh oka me paso lo mismo, gracias
+03:17:03	Nelsonlautaro sabo:	es como que haciendo esto estamos haciendo el envio de nuestro archivo a un servidor?
+03:17:24	[TUTOR] Diego ALvarado:	Todavía no, por ahora estamos almacenando todo en la carpeta .git
+03:17:27	[TUTOR] Diego ALvarado:	Que tienen oculta
+03:17:31	Jonathan Garcia:	fatal: not a git repository (or any of the parent directories): .git
+03:17:32	Franco Ontivero:	En el staging área nuestro archivo es visible para nosotros u otros?
+03:17:36	Jonathan Garcia:	me sale eso
+03:17:41	Jonathan Garcia:	me dicen si esta bien o no?
+03:17:44	Jonathan Garcia:	por favor
+03:17:58	Luca Benaglio:	sep
+03:17:59	Julieta Bueno:	si
+03:17:59	Emiliano Di Noto:	sep
+03:18:02	Alexis Orphant:	si
+03:18:03	Santiago Marchese:	sipp
+03:18:06	Micaela Iacono:	sip
+03:18:06	fabrizio mendez:	NONO
+03:18:07	Tomas Lazarte:	sisi
+03:18:07	Franco Ontivero:	Si, me sale el index en verde
+03:18:08	Jonathan Garcia:	bueh
+03:18:09	fabrizio mendez:	esta en rojo
+03:18:09	Lucio Schiavoni:	si
+03:18:10	Tomás Moschen:	sipi
+03:18:11	Jonathan Garcia:	gracias
+03:18:15	Richard Roges:	lauta
+03:18:17	Richard Roges:	jona le tiro error
+03:18:19	luciano roldan:	se viene bien
+03:18:28	Jonathan Garcia:	repito por tercera vez
+03:18:29	Jonathan Garcia:	fatal: not a git repository (or any of the parent directories): .git
+03:18:31	Jonathan Garcia:	me sale eso
+03:18:33	Jonathan Garcia:	git add .
+03:18:44	Lucas Lemos:	digamos que el archivo esta en el limbo ahora?
+03:18:46	Jonathan Garcia:	hice paso a paso
+03:18:47	Jonathan Garcia:	si
+03:19:26	[TUTOR] Diego ALvarado:	Estas haciendo mal el proceso Jonathan
+03:19:27	[TUTORA] Julieta Romano:	Jonathan envia captura al grupo
+03:19:29	luciano roldan:	si
+03:19:38	[TUTORA] Julieta Romano:	Hiciste git init?
+03:19:40	[TUTOR] Diego ALvarado:	Debes primero ir al proyecto, hacer git init
+03:19:42	Franco Ontivero:	staging area
+03:19:44	Nelsonlautaro sabo:	staging area
+03:19:45	Gaspar Mutti:	en el limbo
+03:19:48	Andrés Durso:	limbo git
+03:20:01	[TUTOR] Diego ALvarado:	Si no haces git init no vas a instanciar git y ende no te va a reconocer el git add
+03:20:05	Gaspar Mutti:	cuando esta verde
+03:20:09	Luca Benaglio:	y cuando lo subamos a GitHub estaría en repository?
+03:20:11	Gaspar Mutti:	esta en el limbo
+03:20:15	Juan Sarmiento:	push
+03:20:15	Julieta Bueno:	en el avión de MELI
+03:21:37	Jonathan Garcia:	chicos me acaban confirmar que fallecio mi suegro recién.
+03:21:41	Jonathan Garcia:	disculpen pero me tengo que ir
+03:21:42	Sheilyn Colina:	a mi no e sale el color pero si todo el commando. esta mal?
+03:21:45	Juan Cruz Altamirano:	uh mala ahi
+03:21:52	Franco Ontivero:	Lo siento Jona
+03:21:53	Jonathan Garcia:	gracias!
+03:21:58	Jonathan Garcia:	después veo la grabacion
+03:22:08	Gonzalo Saguas:	anda tranquilo jona
+03:22:11	Emiliano Di Noto:	fuerza jhona
+03:22:16	Santiago Marchese:	suertee
+03:22:22	Franca Figueroa:	hola tengo que irme a trabajar me retiro de la clase disculpas!!! saludos
+03:22:29	Lucas Lemos:	fuerza jonah
+03:22:34	Franca Figueroa:	gracias saludos
+03:22:42	Franco Ontivero:	Si
+03:22:42	luciano roldan:	si
+03:23:01	Richard Roges:	aaaa
+03:23:02	Richard Roges:	me quema
+03:23:03	Richard Roges:	aaaaa
+03:23:09	luciano roldan:	ahí se mejoro el audio
+03:23:17	Franco Ontivero:	bien
+03:23:23	Nelsonlautaro sabo:	una patada y listo
+03:23:27	Lautaro Tresca:	jajajaja
+03:24:26	Julieta Bueno:	shut
+03:24:32	Julieta Bueno:	si
+03:24:33	Emiliano Di Noto:	sep
+03:24:33	Tomás Moschen:	si
+03:24:34	Leonardo Avalos:	sii
+03:24:34	Nelsonlautaro sabo:	que seria lo que va entre comilla. El titulo de nuestro archivo o una descripción
+03:24:35	fabrizio mendez:	isisi
+03:24:35	Tomas Russo Romera:	si
+03:24:35	Cristian Alejandro Rebasti:	esto es para cuando alguien revise nuestro codigo lea ese commit?
+03:24:36	Tomás Moschen:	exacto eso
+03:24:36	Lucas Lemos:	si
+03:24:38	Tomas Lazarte:	sip
+03:24:38	Germán Kern:	se me fue abajo el puntero.. abajo del $ como lo subo?
+03:24:40	Diego Baconsky:	sii
+03:24:48	Andrés Durso:	a donde llegamos jejeje
+03:24:50	[TUTORA] Julieta Romano:	Si Cristian,
+03:24:50	luciano roldan:	error me dice
+03:24:55	Gaspar Mutti:	otra vez profe
+03:24:57	Gaspar Mutti:	me salió error
+03:25:09	luciano roldan:	Usuario@DESKTOP-SC4VGBP MINGW64 ~/Desktop/git (master)$ git commit - "nuestro primer commit"error: pathspec '-' did not match any file(s) known to giterror: pathspec 'nuestro primer commit' did not match any file(s) known to gitUsuario@DESKTOP-SC4VGBP MINGW64 ~/Desktop/git (master)
+03:25:18	[TUTORA] Julieta Romano:	Traten que los nombres de los commits tengan relación con los cambios hechos
+03:25:19	Agustin Rojas Molina:	Te falto el m
+03:25:22	[Tutor] Sebastian Ezequiel De  Franco:	git commit -m "nombre de commit"
+03:25:29	Santiago Marchese:	salen los html no?
+03:25:31	Santiago Marchese:	bienn
+03:25:32	fabrizio mendez:	bien bien
+03:25:35	Luca Benaglio:	a mi todo bien
+03:25:38	Abril Capizzano:	todo bien
+03:25:38	Sheilyn Colina:	no me slae el color
+03:25:40	Sheilyn Colina:	:(
+03:25:40	Gaspar Mutti:	fatal: not a git repository
+03:25:44	Sheilyn Colina:	pero si todo lo demas
+03:25:45	Germán Kern:	me lo escribió un renglón abajo pero funcionó
+03:25:51	Pablo Javier Frank Gonzalez:	tiene alguna convención para el nombre ej:(nombre del archivo v1.0 ?)
+03:26:03	Nelsonlautaro sabo:	osea yo compro algo y lo que iria entre comillas seria como la dirección de mi casa
+03:26:06	Sheilyn Colina:	no me sale el color pero si todo lo demas
+03:26:06	Patricio Silverii:	a mi me aparece, al lado del index.html un botón que dice gi
+03:26:07	luciano roldan:	como le agrego la m?
+03:26:08	luciano roldan:	no me deja
+03:26:13	Gaspar Mutti:	lo había puesto en git sin querer
+03:26:21	Gaspar Mutti:	lauta cerre el git sin querer
+03:26:25	Gaspar Mutti:	estaba haciendo algo?
+03:26:42	luciano roldan:	como le agrego la m?
+03:26:46	Gaspar Mutti:	necesito tener git abierto?
+03:26:55	Gaspar Mutti:	el otro git digo
+03:27:07	Luca Benaglio:	no gaspar
+03:27:19	Luca Benaglio:	gaspi
+03:27:21	Luca Benaglio:	buenaaaaaaaaaas
+03:27:28	Gaspar Mutti:	buuuuuuuuuuuuuuuuuuuuuuuuuuuuenas
+03:27:32	Luca Benaglio:	flama
+03:27:33	luciano roldan:	no piedo agregarle
+03:27:33	Gaspar Mutti:	bien
+03:27:34	luciano roldan:	la m
+03:27:36	Franco Ontivero:	perfecto
+03:27:39	Nelsonlautaro sabo:	lo hice de nuevo y me funciono
+03:27:41	luciano roldan:	no me deja agregarle la m
+03:27:43	Javier Paulino:	Bien
+03:27:51	Nelsonlautaro sabo:	git commit -m
+03:29:01	Santiago Marchese:	toda la infooo
+03:29:03	Tomás Moschen:	uh es recontra botón
+03:29:03	Nelsonlautaro sabo:	te dice hora y fecha. de que?
+03:29:04	Franco Ontivero:	muestra lo que subimos
+03:29:05	Gaspar Mutti:	vamos bien
+03:29:06	Julieta Bueno:	bien
+03:29:07	Gaspar Mutti:	vamos good
+03:29:09	Tomás Moschen:	jajajaja hasta los segundos
+03:29:12	Luca Benaglio:	que hay desp del log?
+03:29:16	Sheilyn Colina:	como hago para que me salgan los colores?
+03:29:19	Luca Benaglio:	no dije nada
+03:29:24	Germán Kern:	Germ<C3><A1>n Kern porque me aparece asi?
+03:29:24	Tomás Moschen:	-0300 la zona horaria
+03:29:33	Tomás Moschen:	para que no te puedas excusar en eso
+03:29:48	Jorge Alejandro Lavera:	No sé, no conseguí que me aparezca dentro de Visual code así que no pude hacer nada."Por afuera" me aparece un Git GUI, se puede usar esa interfaz? Sería lo mismo?
+03:29:59	luciano roldan:	yo vengo bien
+03:30:06	Andrés Durso:	o sea el me quede hasta tarde trabajando no lo usamos mas jajajja
+03:30:11	luciano roldan:	pero el primer commit que daba error quedo ahí y hice unos nuevo
+03:30:22	luciano roldan:	osea tengo dos
+03:30:38	[TUTOR]Victor Hernandez:	La rama es mejor meterla en GitHub
+03:30:41	[TUTOR]Victor Hernandez:	para que se entienda
+03:30:43	[Coordi]Sebastian Romay:	de una si
+03:30:46	[Tutor] Sebastian Ezequiel De  Franco:	sisi
+03:30:48	Franco Ontivero:	grafico y teoría van de la mano
+03:30:49	Julieta Bueno:	sisi
+03:30:49	[Coordi]Sebastian Romay:	Mucha info si no
+03:30:52	[TUTORA] Abril Aiello:	Se entiende mejor creo, si
+03:30:58	[TUTORA] Abril Aiello:	Sino es muy abstracto
+03:31:04	Gaspar Mutti:	que seria entonces lo que acabamos de generar?
+03:31:18	Julieta Bueno:	los cambios se guardan solos?
+03:31:18	Gaspar Mutti:	para que nos sirvió esto en nuestro HTML?
+03:31:23	Julieta Bueno:	}es decir, las versiones
+03:31:31	Germán Kern:	go
+03:31:33	Gaspar Mutti:	vamos
+03:31:34	Gaspar Mutti:	go
+03:31:34	Luca Benaglio:	vamo
+03:31:57	Franco Ontivero:	Si
+03:31:57	Nelsonlautaro sabo:	se
+03:31:59	Julieta Bueno:	si
+03:32:01	Gaspar Mutti:	si
+03:32:04	Gaspar Mutti:	y una carpeta git
+03:32:04	luciano roldan:	en donde?
+03:32:07	Tomas Russo Romera:	eso es por que no estaen la nube?
+03:32:07	Gaspar Mutti:	en el explorador
+03:32:15	Franco Ontivero:	Es porque no se hizo un commit de esta versión?
+03:32:20	Tomás Moschen:	sisi
+03:32:37	Martin Devita:	a mi no me aparece ninguna M
+03:32:38	Luca Benaglio:	status
+03:32:39	Patricio Silverii:	status?
+03:32:39	Franco Ontivero:	git status
+03:32:39	Julieta Bueno:	te están por  mandar mensaje al celu
+03:32:39	Gaspar Mutti:	status
+03:32:39	Emilio Bensignor:	A mi no me aparece la M
+03:32:40	fabrizio mendez:	git status
+03:32:41	Andrés Durso:	git status
+03:32:55	Agustin Rojas Molina:	Y si alejas tu celular a lo mejor se va la interferencia
+03:33:04	Sheilyn Colina:	puedes repetir desde el html por fa?
+03:33:11	[Tutor] Sebastian Ezequiel De  Franco:	creo que era eso
+03:33:11	Agustin Rojas Molina:	Sólo una teoria jaaj
+03:33:13	Gaspar Mutti:	si, se escucha mejor
+03:33:23	Julieta Bueno:	se escucha mejor
+03:34:00	Abril Capizzano:	On branch masternothing to commit, working tree clean
+03:34:35	fabrizio mendez:	git add .
+03:34:37	Franco Ontivero:	git add .
+03:34:38	Tomás Moschen:	add
+03:34:38	Luca Benaglio:	add
+03:34:41	Emiliano Di Noto:	add .
+03:34:41	Julieta Bueno:	add .
+03:34:47	Lucio Schiavoni:	git add .
+03:35:01	Tomás Moschen:	en verde
+03:35:02	fabrizio mendez:	verde
+03:35:03	Luca Benaglio:	verde
+03:35:05	Javier Paulino:	Verde
+03:35:06	Lucio Schiavoni:	verde
+03:35:06	Emiliano Di Noto:	verdee}
+03:35:07	Andrés Durso:	dentro
+03:35:12	Andrés Durso:	verde si
+03:35:13	Magali Zapata:	Como voy para atrás? me olvide el punti
+03:35:13	Gaspar Mutti:	ok 😎
+03:35:14	luciano roldan:	git add .
+03:35:15	Luca Benaglio:	es como un ctrl + s
+03:35:17	luciano roldan:	?
+03:35:19	fabrizio mendez:	iupiii
+03:35:26	Julieta Bueno:	verde
+03:35:33	Maylen M Mendoza Mendoza:	tuki
+03:35:46	Lucio Schiavoni:	git commit
+03:35:47	Agustin Rojas Molina:	Me sale aguamarina pero es por el theme
+03:35:48	Cristian Alejandro Rebasti:	git commit
+03:35:48	Franco Ontivero:	hacer el repository
+03:36:02	Nelsonlautaro sabo:	direccion
+03:36:03	Abril Capizzano:	un comentario
+03:36:03	Luca Benaglio:	para ponerle nombre
+03:36:13	Lucio Schiavoni:	para indicar que cambiamos algo
+03:36:18	Cristian Alejandro Rebasti:	git commit -m "nuestro segundo commit"
+03:36:30	Andrés Durso:	como los comentarios que haciuamos en HTML? mas o menos
+03:37:12	Luca Benaglio:	cada cambio hay que hacer lo mismo? :)
+03:37:14	Cristian Alejandro Rebasti:	podemos poner todo lo agregado entre comentarios y aclarar en el commit que pusimos codigo ahi?
+03:37:19	Gaspar Mutti:	me dice lo mismo
+03:37:20	Richard Roges:	no me lo hace lauta
+03:37:25	Gaspar Mutti:	pero al final también me dice 1 deletion
+03:37:28	Luca Benaglio:	es un garron
+03:37:35	Valentin Novoa:	git log
+03:37:44	Richard Roges:	cuando pongo git add me saltan tres cosas en amarillo
+03:37:50	Richard Roges:	como que nada se agrego
+03:37:57	Tomas Lazarte:	$ git commit -m "agregamos un h1"[master 5456277] agregamos un h1 1 file changed, 1 insertion(+), 1 deletion(-)
+03:38:16	Franco Ontivero:	:O
+03:38:18	Franco Ontivero:	Jajaja
+03:38:20	luciano roldan:	que pusiste?
+03:38:24	Santiago Marchese:	el historial
+03:38:25	Richard Roges:	ahora si
+03:38:26	[TUTOR] Julian Fernandez:	git log es el buchon jajaj
+03:38:26	Richard Roges:	gracias lauta
+03:38:36	Nelsonlautaro sabo:	te dice todo lo que editas xdxd
+03:38:37	Luca Benaglio:	pero se puede poner "creamos un header" y ahí ya entran todos los navs li etc, o uno por uno?
+03:38:42	Abril Capizzano:	cada cambio que hacemos en nuestro HTML tiene que ser comentado?
+03:38:42	Emiliano Di Noto:	puse agregamos con A mayúscula y me lo cambió por otras letras jaja
+03:39:08	Agustin Rojas Molina:	Imagino que puede llegar a ser muy largo el log
+03:39:08	Luca Benaglio:	ah calro, pero me refiero no cada etiqueta que agreguemos, sino un cambio mas general
+03:39:11	Patricio Resio:	me tengo que ir retirando, disculpen!, buen finde para todos
+03:39:21	Julieta Bueno:	cada cambio que querramos guardar? o se... lito, me quedo linda la pagina y hago esto?
+03:39:33	Germán Kern:	porque en vez de aparecerme Germán Kern, me aparece así Germa<c3><a1>n Kern.  No se puede poner acento?
+03:39:38	Andrés Durso:	Para archivar todos los cam,bios seria
+03:39:53	Patricio Silverii:	después se puede volver a un paso atrás digamos?
+03:40:00	Julieta Bueno:	y asi queda grabado todo? si tengo carpetas también se agregan?
+03:40:01	rolando otero:	claro
+03:40:07	[TUTOR] Julian Fernandez:	Los cambios son cadaa taanto, no todo el tiempo
+03:40:07	Luca Benaglio:	mas general creo
+03:40:15	[TUTORA] Abril Aiello:	Vieron cuando hacían un tp para el colegio y guardaban los Word tipo "tp final" "tp final corregido" "esto si, tp final final" "tp oficial este se entrega"?
+03:40:15	Valentino Argenziano:	No se puede hacer al final del dia?
+03:40:15	luciano roldan:	si
+03:40:17	[TUTORA] Abril Aiello:	Bueno es esto
+03:40:23	Nelsonlautaro sabo:	creo que seria mas facil comentando las etiquetas principales
+03:40:25	luciano roldan:	a mi ahora no me deja escribir mas nada no se que ond
+03:40:38	Nelsonlautaro sabo:	header,section,etc
+03:40:47	Emiliano Di Noto:	osea se valora el commit para mejor comunicación en el equipo de trabajo
+03:41:07	Gaspar Mutti:	Como aplica el git al css?
+03:41:07	rolando otero:	osea tenemos que marcar cosas mas generales en cambio un h1?
+03:41:12	Julieta Bueno:	claro, cambios significativos, no?
+03:41:18	[TUTOR] Julian Fernandez:	Claro chicos
+03:41:19	Lautaro Tresca:	y si hacemos un commit con un resumen de todos los cambios?
+03:41:34	Santiago Marchese:	mas organizado
+03:41:35	[TUTORA] Julieta Romano:	Ni muchos cambios, ni muy pocos
+03:41:46	[TUTORA] Abril Aiello:	Es que quizás se equivocan cambiando algo y necesitan ir auna versión anterior de su proyecto en la que ese error no estaba
+03:41:50	Luca Benaglio:	"creamos 9 divs con imágenes dentro" y asi?
+03:41:57	Gaspar Mutti:	un commit por seccion
+03:41:58	[TUTORA] Abril Aiello:	Entonces cambian de commit. Ya vamos a llegar a eso
+03:42:17	[TUTORA] Abril Aiello:	Intenten poner nombres mas cortitos igual, pero si luca
+03:42:27	Alejandro Zalazar:	todo lo guardado en el repositorio con commit queda en el rigido de mi compu o en la ram?
+03:42:32	Emiliano Di Noto:	ahh mira
+03:42:35	Luca Benaglio:	atr
+03:43:04	Leandro Jaime:	es mas que nada para tener un registro de los cambios que vamos haciendo, no?
+03:43:27	Luca Benaglio:	flmaa
+03:43:29	Tomas Lazarte:	a mi me tira END al final
+03:43:29	luciano roldan:	vamo bien
+03:43:33	luciano roldan:	voy a estudiar bien
+03:43:33	Germán Kern:	y para que? por si hay algo mal borrarlo?
+03:43:35	Miguel Raad:	yo todo mal asi que te espero si te podes quedar un par de mins
+03:43:51	Julieta Bueno:	bye! me pongo a hacer las entregas!
+03:43:55	Julieta Bueno:	gracias!
+03:43:57	Alejandro Zalazar:	todo lo guardado en el repositorio con commit queda en el rigido de mi compu o en la ram?
+03:44:04	Richard Roges:	nos vemos lauta, gracias por la clase
+03:44:10	luciano roldan:	gracias!
+03:44:10	Sheilyn Colina:	hay alguna forma de que me salgan los colores?
+03:44:11	Sheilyn Colina:	jaja
+03:44:14	luciano roldan:	me voy a hacer los proyectos
+03:44:20	Gaspar Mutti:	chau gracias
+03:44:21	[Tutor] Sebastian Ezequiel De  Franco:	Nos vemos!
+03:44:21	Andrés Durso:	nos vemos saludos a todos
+03:44:25	Tomas Russo Romera:	chau gente BUEN FINDE!! CODEEN MUCHO
+03:44:26	Lautaro Tresca:	chau, buen finde gente
+03:44:29	luciano roldan:	buen finde!
+03:44:30	Juan Sarmiento:	quieren explicar algo del desafio?
+03:44:30	[TUTOR] Julian Fernandez:	Nos vemos chicos! cualquier cosita estamos x el chat, ahi les deje unos apuntes de git!
+03:44:31	[TUTORA] Julieta Romano:	Saludos, disfruten el finde largoo
+03:44:40	Ale Breuer:	Saludos, buen finde para todos!
+03:44:42	[TUTOR]Victor Hernandez:	Saludos
+03:44:45	leandro poirier:	adioooss
+03:44:46	Micaela Iacono:	saludos!!
+03:44:49	[Tutor] Felipe Blanco Muzzolón:	Felices Pascuas!
+03:44:52	Maylen M Mendoza Mendoza:	adiós buen finde
+03:44:56	Abril Capizzano:	buen finde!
+03:44:56	Emiliano Di Noto:	felices pascuas 8)
+03:44:57	Javier Paulino:	Hasta luego, buen finde.
+03:45:00	Julieta Bueno:	buen finde
+03:45:01	Marina Olivieri:	Buen fin de semana a todos 😊
+03:45:02	Luca Benaglio:	buena clase lauta, nos vemos
+03:45:03	Lucio Schiavoni:	Nos vemos, buen finde
+03:45:08	Nelsonlautaro sabo:	no pasa nada lauta. yo entendi todo. te banco!
+03:45:12	Martin Garcia Berro:	Chau buen finde! gracias por todo
+03:45:37	Alejandro Zalazar:	yo
+03:46:03	Sheilyn Colina:	yo solo quiero saber como hago para que me salga en color
+03:46:16	Sheilyn Colina:	en la terminal
+03:46:17	Alejandro Zalazar:	todo lo guardado en el repositorio con commit queda en el rigido de mi compu o en la ram?
+03:46:18	Sheilyn Colina:	bueno
+03:46:45	Alejandro Zalazar:	git es un softwere
+03:46:47	Alejandro Zalazar:	ok
+03:46:52	Boris Alexander Masalyka:	lauta yo tenia una duda en base al responsive, pero para no molestar mejor te lo escribo por privado :)
+03:46:55	Boris Alexander Masalyka:	buen finde largo!
+03:47:21	[Coordi]Sebastian Romay:	Buen finde a todos! buen finde lautaa
+03:50:07	Leonel Agustin Dominguez:	a mi después de agregar el commit me quedo en END
+03:51:24	Leonel Agustin Dominguez:	si
+03:51:27	Leonel Agustin Dominguez:	en visula
+03:51:30	Leonel Agustin Dominguez:	visual
+03:55:43	Miguel Raad:	chicos alguien tiene el comadno para resetar todo el git?
+03:55:48	Miguel Raad:	por ahí asi puedo empezar de 0 sin quilombos
+03:55:51	Profe Lauta:	clear
+03:55:54	Profe Lauta:	solo
+03:55:55	Sheilyn Colina:	clear miguel
+03:56:07	Miguel Raad:	pero para toda la configuración de nombre email todo?
+03:56:36	Sheilyn Colina:	sera por margin?
+03:56:39	Leonel Agustin Dominguez:	ahí quedo
+03:57:06	Sheilyn Colina:	yo tengo raspidita consulta
+03:57:09	Sheilyn Colina:	raoidita
+03:57:33	Miguel Raad:	fiu fiu
+03:57:46	Profe Lauta:	jajaja
+03:57:55	Miguel Raad:	@produccion
+04:01:27	Miguel Raad:	creo que el high contrast te podría poner los colores(?
+04:05:08	Sheilyn Colina:	venezuelaaa
+04:05:09	Sheilyn Colina:	jajaja
+04:05:13	Sheilyn Colina:	epa
+04:05:16	Sheilyn Colina:	de que parte?
+04:10:16	Leonel Agustin Dominguez:	nos vemos lauta, buen finde
+04:15:58	Boris Alexander Masalyka:	yo me tengo que retirar lauta! perod espues vere si puedo solucionar eso
+04:15:59	Boris Alexander Masalyka:	buen finde
+04:16:14	Miguel Raad:	Chao lauta, gracias!!
+04:16:24	Santiago Marchese:	buen findee nos vemoss
